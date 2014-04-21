@@ -133,30 +133,36 @@ p {
     line-height: 1.7rem;
 }
 
-.bucket1 {
-    overflow: hidden;
-}
-
 .bucket1 figure {
-    float: left;
-    width: 45%;
-    margin: 0 10% .5rem 0; 
+    margin: 0;
     padding: 0;
-    font-family: 'Share Tech', sans-serif;
-    text-transform: uppercase;
-    font-size: 1.5rem;
-    line-height: 1.7rem;
 }
 
-.bucket1 figure:nth-child(even) {
+.bucket1 a,
+.bucket1 a:link,
+.bucket1 a:visited {
+    float: left;
+    width: 45%; /* First and second buckets. 45% x 2 = 90% */ 
+    margin: 0 10% 1.5rem 0; /* First and second bucket right margins. 10% x 2 = 20%  */
+    padding: 0;
+}
+
+.bucket1 a:nth-child(even) {/* every even numbered <figure> has no margin */
     margin: 0;     
 }
 
 .bucket1 figcaption {
-    position: relative;
-    top: -1.5rem;
     text-align: center;
+    font-family: 'Share Tech', sans-serif;
+    text-transform: uppercase;
+    font-size: 1.5rem;
     color: black;
+    position:relative;
+    top: -1.5rem;
+}
+
+.bucket1 {
+    overflow: hidden;
 }
 
 .bucket3 {
