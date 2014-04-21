@@ -93,7 +93,6 @@ header {
     background-image: url(../images/dco-camera.jpg);
     background-color: black;
     background-repeat: no-repeat;
-    background-position: stretch;
     background-size: 100%;
     margin: .5rem 0;
 }
@@ -207,20 +206,17 @@ footer {
     overflow: hidden;
     background-image: url(../images/background-wood.jpg);
     background-position: stretch;
-    background-repeat: repeat; 
     padding: 3rem 0 0;
 }
 
 .nav-bottom {
     margin: 0;
     width: 100%;
-    float: center;
 }
 
 .nav-bottom li {
     float: left;
     list-style-type: none;
-    list-style-position: center;
     margin: -3rem .5rem 2rem;
 }
 
