@@ -205,7 +205,6 @@ p {
 footer {
     overflow: hidden;
     background-image: url(../images/background-wood.jpg);
-    background-position: stretch;
     padding: 3rem 0 0;
 }
 
