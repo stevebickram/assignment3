@@ -1,29 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 17.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="30.583px" height="30.997px" viewBox="0 0 30.583 30.997" enable-background="new 0 0 30.583 30.997" xml:space="preserve">
+	 viewBox="-290 381 30.6 31" enable-background="new -290 381 30.6 31" xml:space="preserve">
 <g>
 	<g>
-		<path fill="none" stroke="#1C75BC" stroke-width="2" stroke-miterlimit="10" d="M1.959,23.149c0,1.48,2.369,3.857,3.838,3.857
-			h17.844c1.469,0,3.838-2.377,3.838-3.857V5.659c0-1.48-2.369-3.857-3.838-3.857H5.797c-1.469,0-3.838,2.377-3.838,3.857
-			C1.959,5.659,1.959,23.149,1.959,23.149z"/>
+		<path fill="none" stroke="#1C75BC" stroke-width="2" stroke-miterlimit="10" d="M-289,403.4c0,1.5,2.4,3.9,3.8,3.9h17.8
+			c1.5,0,3.8-2.4,3.8-3.9v-17.5c0-1.5-2.4-3.9-3.8-3.9h-17.8c-1.5,0-3.8,2.4-3.8,3.9C-289,385.9-289,403.4-289,403.4z"/>
 	</g>
 </g>
 <g>
 	<g>
-		<polygon fill="#1D75BC" points="6.603,11.181 10.051,11.181 10.051,21.788 6.603,21.826 		"/>
+		<polygon fill="#1D75BC" points="-284.4,391.4 -280.9,391.4 -280.9,402 -284.4,402 		"/>
 	</g>
 </g>
 <g>
 	<g>
-		<path fill="#1D75BC" d="M12.115,10.821h3.409v1.894c0,0,4.622-5.038,7.122,1.174v7.576h-3.371v-6.213c0,0-1.288-3.485-3.712,0.114
-			v6.061h-3.447L12.115,10.821L12.115,10.821z"/>
+		<path fill="#1D75BC" d="M-278.8,391h3.4v1.9c0,0,4.6-5,7.1,1.2v7.6h-3.4v-6.2c0,0-1.3-3.5-3.7,0.1v6.1h-3.4L-278.8,391L-278.8,391
+			z"/>
 	</g>
 </g>
 <g>
 	<g>
-		<circle fill="#1D75BC" cx="8.361" cy="6.569" r="1.837"/>
+		<circle fill="#1D75BC" cx="-282.6" cy="386.8" r="1.8"/>
 	</g>
 </g>
 </svg>
